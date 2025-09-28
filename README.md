@@ -54,11 +54,11 @@ Let me know if you want me to generate a full README from top to bottom, includi
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/hr-analytics-dashboard.git
+git clone https://github.com/NAIMNoamane/HR_Analytics
 ```
 Navigate to the project directory:
 ```
-cd hr-analytics-dashboard
+cd HR_analytics
 ```
 Install dependencies:
 ```
@@ -95,4 +95,5 @@ Feel free to fork this repository and contribute to improve this project! If you
 
 [![GitHub](https://img.shields.io/badge/GitHub-Priya--C--016-black?logo=github)](https://github.com/Priya-C-016)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya--Chanchal-blue?logo=linkedin)](https://www.linkedin.com/in/priya-chanchal-050b86288/)
+
 
